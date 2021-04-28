@@ -1,0 +1,14 @@
+[
+    {
+        "id":10,
+        "text":"Here is json 2 file",
+        "author":"Di LU",
+        "date":"2021-02-07"
+    },
+    {
+        "id":11,
+        "text":"What happened to the alignment?",
+        "author":"April",
+        "date":"2021-02-07"
+    }
+]
